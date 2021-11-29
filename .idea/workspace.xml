@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="95f1541a-1794-4aa3-8eeb-46200740953c" name="Default Changelist" comment="A simple panel expanding exercise.">
-      <change afterPath="$PROJECT_DIR$/images/city_winter.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/explore_the_world.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/mountain_clouds.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sunny_beach.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/wild_forest.jpg" afterDir="false" />
+    <list default="true" id="95f1541a-1794-4aa3-8eeb-46200740953c" name="Default Changelist" comment="adding some images">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638210289450</updated>
-      <workItem from="1638210290554" duration="7974000" />
+      <workItem from="1638210290554" duration="8537000" />
     </task>
     <task id="LOCAL-00001" summary="A simple panel expanding exercise.">
       <created>1638219572234</created>
@@ -66,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638219572234</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding some images">
+      <created>1638221333939</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638221333939</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,6 +76,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="A simple panel expanding exercise." />
-    <option name="LAST_COMMIT_MESSAGE" value="A simple panel expanding exercise." />
+    <MESSAGE value="adding some images" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding some images" />
   </component>
 </project>
